@@ -1,6 +1,6 @@
 # LLM-summariser
 
-This project explores the idea of using LLMs for document summarisation. Although the initial proof of concept involves long podcast/interview transcripts the project could be extended to other documents (i.e. news articles, research papers, applications etc.)
+This notebook explores the idea of using LLMs for document summarisation. Although the initial proof of concept involves long podcast/interview transcripts the project could be extended to other documents (i.e. news articles, research papers, applications etc.)
 
 ---
 
